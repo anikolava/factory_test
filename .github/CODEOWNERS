@@ -1,0 +1,7 @@
+.github/                 anikolava
+infra/                   anikolava
+specs/                   anikolava
+web/e2e/acceptance/      anikolava
+backend/**/migrations/   anikolava
+backend/**/auth*         anikolava
+backend/**/security*     anikolava
